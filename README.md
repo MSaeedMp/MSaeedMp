@@ -13,10 +13,10 @@ Welcome to my GitHub! I'm a **full-stack developer** with experience in **AI and
 
 Here are some of my projects:
 
-- **[NextStore](https://next-store-app.vercel.app/)** – A modern e-commerce platform
-- **[NextChat](https://next-chat-app.vercel.app/)** – A ChatGPT-like AI chatbot using LLMs
 - **[NextCabin](https://next-cabin-app.vercel.app/)** – A cabin reservation system
 - **[NextRobot](https://next-robot-app.vercel.app/)** – A platform for robotic arms
+- **[NextStore](https://next-store-app.vercel.app/)** – A modern e-commerce platform
+- **[NextChat](https://next-chat-app.vercel.app/)** – A ChatGPT-like AI chatbot using LLMs
 
 ## Technologies I Work With
 
