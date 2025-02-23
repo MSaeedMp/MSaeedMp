@@ -16,7 +16,7 @@ Here are some of my projects:
 - **[NextCabin](https://next-cabin-app.vercel.app/)** – A cabin reservation system
 - **[NextRobot](https://next-robot-app.vercel.app/)** – A platform for robotic arms
 - **[NextStore](https://next-store-app.vercel.app/)** – A modern e-commerce platform
-- **[NextChat](https://next-chat-app.vercel.app/)** – A ChatGPT-like AI chatbot using LLMs
+- **[NextChat](https://next-chat-app.vercel.app/)** – A ChatGPT-like AI chatbot powered by 10 LLMs
 
 ## Technologies I Work With
 
@@ -69,8 +69,6 @@ Here are some of my projects:
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />  
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
 </div>
-
-### **Other Tools**
 
 ### **Other Tools**
 <div>
