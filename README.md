@@ -85,6 +85,6 @@ Here are some of my projects:
 
 - Email: saeed.mafipour@gmail.com
 - Website: [Portfolio](https://portfolio-beta-roan-69.vercel.app/de)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/saeed-mafipour/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/m-saeed-mafipour/)
 
 Thanks for visiting my GitHub! Feel free to check out my projects and connect.
