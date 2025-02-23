@@ -1,6 +1,6 @@
 # Hi, I'm Saeed
 
-Welcome to my GitHub! I'm a **full-stack developer** with experience in **AI and digitalization**, especially in the **construction environment**. I enjoy building **web applications**, working with **large language models (LLMs)**, and exploring new technologies.
+Welcome to my GitHub! I'm a **full-stack developer** with experience in **AI and digitalization**, especially in the **construction environment**. I enjoy building **web applications**, working with **AI**, and exploring new technologies.
 
 ## About Me
 
