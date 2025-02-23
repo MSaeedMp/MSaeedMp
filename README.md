@@ -15,8 +15,8 @@ Here are some of my projects:
 
 - **[NextCabin](https://next-cabin-app.vercel.app/)** – A cabin reservation system
 - **[NextRobot](https://next-robot-app.vercel.app/)** – A platform for robotic arms
-- **[NextStore](https://next-store-app.vercel.app/)** – A modern e-commerce platform
-- **[NextChat](https://next-chat-app.vercel.app/)** – A ChatGPT-like AI chatbot powered by 10 LLMs
+- **[NextStore](https://next-store-app-pi.vercel.app/)** – A modern e-commerce platform
+- **[NextChat](https://next-chat-app-umber.vercel.app/)** – A ChatGPT-like AI chatbot powered by 10 LLMs
 
 ## Technologies I Work With
 
