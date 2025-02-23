@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **full-stack developer** with experience in **AI and
 ## About Me
 
 - Full-Stack Developer | AI & Digitalization Enthusiast
-- Dr.-Ing. in Engineering (TUM)
+- Dr.-Ing./Ph.D. in Engineering (TUM)
 - Based in Munich, Germany
 - Passionate about building scalable applications and AI-driven solutions
 
@@ -48,7 +48,6 @@ Here are some of my projects:
 
 ### **Backend**
 
-### **Backend**
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />  
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />  
@@ -58,7 +57,6 @@ Here are some of my projects:
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
 </div>
-
 
 ### **AI & ML**
 
