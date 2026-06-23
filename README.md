@@ -9,14 +9,6 @@ Welcome to my GitHub! I'm a **full-stack developer** with experience in **AI and
 - Based in Munich, Germany
 - Passionate about building scalable applications and AI-driven solutions
 
-## Projects
-
-Here are some of my projects:
-
-- **[NextCabin](https://next-cabin-app.vercel.app/)** – A cabin reservation system
-- **[NextRobot](https://next-robot-app.vercel.app/)** – A platform for robotic arms
-- **[NextStore](https://next-store-app-pi.vercel.app/)** – A modern e-commerce platform
-- **[NextChat](https://next-chat-app-umber.vercel.app/)** – A ChatGPT-like AI chatbot powered by 10 LLMs
 
 ## Technologies I Work With
 
